@@ -36,7 +36,7 @@
  .task {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
  }
 
  .add_new_task {
@@ -144,7 +144,7 @@
  }
 
  li > input[type="text"] {
-    width: 226px
+    width: 226px;
  }
 
  li > button.delete:hover {
@@ -171,7 +171,7 @@
 /* Edit Task */
 
  ul li input[type=text] {
-    display: none
+    display: none;
  }
 
  ul li.edit_mode input[type=text] {
